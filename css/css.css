@@ -1,0 +1,240 @@
+*{
+	margin: 0px;
+	border: 0px;
+	box-sizing: border-box;
+}
+@media only screen and (max-width:768px){
+	div{
+		width: 100%;
+	}
+}
+.img{
+	height: 35px;
+}
+.bb{
+	height: 100vh;
+	width: auto;
+/*	background: blue;*/
+}
+.aa{
+	height: 800px;
+	width: auto;
+/*	background: red;*/
+	background-image: url("../images/start.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.head{
+	font-size: 50px;
+	font-weight: bold;
+}
+.head1{
+	font-size: 40px;
+	font-weight: bold;
+}
+.par{
+	font-size: 18px;
+}
+.cc{
+	height: 250px;
+	width: auto;
+/*	background: red;*/
+}
+.dd{
+	height: 350px;
+	width: auto;
+/*	background: blue;*/
+}
+
+
+
+.ee{
+	border: 2px solid black;
+	height: 300px; 
+	width: 300px;
+/*	 background: green;*/
+}
+.ee1{
+	height: 100px;
+	width: 300px;
+/*	background: yellow;*/
+}
+.ee2{
+	height: 200px;
+	width: 300px;
+/*	background: pink;*/
+}
+.but{
+	height: 40px;
+	width: 200px;
+}
+.it{
+	height: 100px;
+}
+.cons{
+	font-size: 25px;
+}
+.ff{
+	height: 500px;
+	width: auto;
+/*	background:pink ;*/
+}
+.snd{
+	background-image: url(../images/light.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.check{
+	font-size: 20px;
+	color: blue;
+}
+.theory{
+	font-size: 20px;
+	font-weight: 600;
+}
+.cons{
+	height: 500px;
+	width: auto;
+/*	background:pink ;*/
+}
+.cons1{
+	background-image: url(../images/const.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.read{
+	height: 180px;
+	width: auto;
+	background: blue;
+}
+.text{
+	height:34px;
+	width: 400px;
+}
+.proj{
+	height: 500px;
+	width: auto;
+/*	background:pink ;*/
+}
+.proj1{
+	height: 300px;
+	width: 350px;
+/*	background:red ;*/
+}
+.proj2{
+	height: 400px;
+	width: auto;
+/*	background:pink ;*/
+}
+.p{
+	height: 300px;
+	width: 350px;
+}
+.proj22{
+	height: 50px;
+	width: auto;
+/*	background:pink ;*/
+}
+.agen{
+	height: 800px;
+	width: auto;
+/*	background:pink ;*/
+}
+.agenpic{
+	background-image: url(../images/agency.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.done{
+	height: 200px;
+	width: auto;
+/*	background: pink;*/
+
+}
+.get{
+	font-size: 45px;
+	color: blue;
+	font-weight: bold;
+	font-family:roboto ;
+}
+.get1{
+	font-size: 20px;
+	font-weight: bold;
+	}
+.cli{
+	height: 180px;
+	width: auto;
+/*	background: pink;*/
+}
+.dhon{
+	height: 600px;
+	width: auto;
+/*	background: pink;*/
+}
+.dho{
+	background-image: url(../images/client.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}	
+.dhony{
+	height: 300px;
+	width: 500px;
+	background:white;
+	position: relative;
+	top: 150px;
+	left: 150px;
+}
+.Av{
+	height: 100px;
+	width: 500px;
+	
+}
+.perso{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+}
+.head11{
+	font-size: 30px;
+	font-weight: bold;
+}
+.par11{
+	font-size: 20px;
+
+}
+.love{
+	height: 70px;
+	width: auto;
+/*	background: yellowgreen;*/
+}
+.nature{
+	height: 250px;
+	width: auto;
+/*	background:yellow;*/
+}
+.blue{
+	height: 60px;
+	width: auto;
+	background: blue;
+}
+.about{
+	height: 350px;
+	width: auto;
+	background: darkslategrey;
+}
+.abo{
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+.abo1{
+	font-size: 18px;
+	font-weight: 20;
+	color: white;
+
+}
+.ico{
+	color: blue;
+	font-size: 20px;
+}
